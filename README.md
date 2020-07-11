@@ -1,4 +1,4 @@
-<img src="https://github.com/sam-cross/sam-cross/blob/master/Header.png?raw=true" alt="Sam Cross Digital header" />
+<img src="https://github.com/sam-cross/sam-cross/blob/master/HeaderImg.png?raw=true" alt="Sam Cross Digital header" />
 
 <a href="https://samcross.digital">![Website](https://img.shields.io/badge/🌐-Sam%20Cross%20Digital-magenta)</a>
 <a href="https://linkedin.com/in/samcrossdigital">![LinkedIn](https://img.shields.io/badge/🤝-LinkedIn-blue)</a>
