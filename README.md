@@ -4,8 +4,8 @@
   <a href="https://samcross.digital"><img alt="Website" src="https://img.shields.io/badge/🌐-Sam%20Cross%20Digital-magenta" /></a>
   <a href="https://linkedin.com/in/samcrossdigital"><img alt="LinkedIn" src="https://img.shields.io/badge/🤝-LinkedIn-blue" /></a>
   <a href="https://facebook.com/samcrossdigital"><img alt="Facebook" src="https://img.shields.io/badge/💬-Facebook-blue" /></a>
-  <a href="https://be.net/samcross"><img alt="Behance" src="https://img.shields.io/badge/✏-Behance-black" /></a>
   <a href="https://twitter.com/samisoffIine"><img alt="Twitter" src="https://img.shields.io/badge/🐥-Twitter-lightblue" /></a>
+  <a href="https://be.net/samcross"><img alt="Behance" src="https://img.shields.io/badge/✏-Behance-black" /></a>
 </p>
 
 # Hello, Visitor!
