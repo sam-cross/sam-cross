@@ -1,9 +1,12 @@
 <img src="https://github.com/sam-cross/sam-cross/blob/master/HeaderImg.png?raw=true" alt="Sam Cross Digital header" />
 
-<a href="https://samcross.digital">![Website](https://img.shields.io/badge/🌐-Sam%20Cross%20Digital-magenta)</a>
-<a href="https://linkedin.com/in/samcrossdigital">![LinkedIn](https://img.shields.io/badge/🤝-LinkedIn-blue)</a>
-<a href="https://be.net/samcross">![Behance](https://img.shields.io/badge/✏-Behance-black)</a>
-<a href="https://github.com/sam-cross">![GitHub](https://img.shields.io/badge/🐙-GitHub-lightgrey)</a>
+<p align="center">
+  <a href="https://samcross.digital"><img alt="Website" src="https://img.shields.io/badge/🌐-Sam%20Cross%20Digital-magenta" /></a>
+  <a href="https://linkedin.com/in/samcrossdigital"><img alt="LinkedIn" src="https://img.shields.io/badge/🤝-LinkedIn-blue" /></a>
+  <a href="https://facebook.com/samcrossdigital"><img alt="Facebook" src="https://img.shields.io/badge/💬-Facebook-blue" /></a>
+  <a href="https://be.net/samcross"><img alt="Behance" src="https://img.shields.io/badge/✏-Behance-black" /></a>
+  <a href="https://twitter.com/samisoffIine"><img alt="Twitter" src="https://img.shields.io/badge/🐥-Twitter-lightblue" /></a>
+</p>
 
 # Hello, Visitor!
 
@@ -12,6 +15,11 @@
 ## Who Am I?
 
 I'm a web designer with a passion for business, I drink too much coffee, and I'm always trying to learn something!
+
+### Quick Links
+
+* [Portfolio](https://samcross.digital/portfolio)
+* [Blog](https://samcross.digital/blog)
 
 ## What's on my GitHub?
 
@@ -27,3 +35,7 @@ I'm constantly learning the tech I use every day - I think this is true for any 
 -   Express
 -   REST APIs
 -   WordPress
+
+## Where Are My Projects?
+
+[My Portfolio](https://samcross.digital/portfolio) is a showcase of all my recent work. I also have [design work on Behance](https://be.net/samcross) and code right here on GitHub!
