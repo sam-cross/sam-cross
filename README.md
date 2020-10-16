@@ -6,7 +6,9 @@
 
 ## Who Am I?
 
-I'm a web designer with a passion for business, I drink too much coffee, and I'm always trying to learn something!
+**I'm currently looking for work!** If you've got an open IT Support/Helpdesk position in Somerset or South East London, I'd love to hear from you.
+
+I fiddle with technology, have a passion for business, drink too much coffee, and I'm always trying to learn something!
 
 ### Social Media
 
