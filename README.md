@@ -1,14 +1,18 @@
 <img src="https://github.com/sam-cross/sam-cross/blob/master/HeaderImg.png?raw=true" alt="Sam Cross Digital header" />
 
-# Hello, Visitor!
+# Hello, Visitor.
 
-**I develop beautiful, impactful online experiences for brands** through professional web design and development, SEO and marketing services, and IT consultancy.
+**I develop impactful online experiences for brands** through a range of online solutions, including:
+
+* Responsive Web Design and Front-End Development
+* SEO and Social Media Marketing
+* IT Consultancy
 
 ## Who Am I?
 
-**I'm currently looking for work!** If you've got an open IT Support/Helpdesk position in Somerset or South East London, I'd love to hear from you.
+Right now, I'm working as an IT Helpdesk Technician in the public sector, alongside [my own brand](https://samcross.digital).
 
-I fiddle with technology, have a passion for business, drink too much coffee, and I'm always trying to learn something!
+I fiddle with technology, have a passion for IT, drink too much coffee, and I'm always trying to learn something.
 
 ### Social Media
 
@@ -21,27 +25,25 @@ I fiddle with technology, have a passion for business, drink too much coffee, an
 
 ### Quick Links
 
-* [Portfolio](https://samcross.digital/portfolio)
 * [Blog](https://samcross.digital/blog)
+* [Photography](https://photo.samcross.digital/)
 
 ## What's on my GitHub?
 
-I use GitHub to share my open-source code, for projects like [departr](https://github.com/sam-cross/departr) and my [CSS-only responsive website header](https://github.com/sam-cross/css-only-responsive-header).
+I use GitHub to share my open-source code, for projects like [departr](https://github.com/sam-cross/departr), a work-in-progress UK transport tracker, and my somewhat-popular [CSS-only responsive website header](https://github.com/sam-cross/css-only-responsive-header).
 
 ## Technologies
 
-I'm constantly learning the tech I use every day - I think this is true for any good developer - but I have a good grasp of the concepts behind most of what I use:
+I'm constantly learning the tech I use every day, but I have a good grasp of the concepts behind most of what I use.
 
--   React.js
--   Next.js
+-   JAMstack
+-   React (and Next.js!)
 -   Node.js
--   Express
--   REST APIs
--   WordPress
+-   Express (and REST APIs)
 
 ## Where Are My Projects?
 
-[My Portfolio](https://samcross.digital/portfolio) is a showcase of all my recent work. I also have [design work on Behance](https://be.net/samcross) and code right here on GitHub!
+[My Portfolio](https://samcross.digital/portfolio) is a showcase of some of my work. I also have [design work on Behance](https://be.net/samcross) and code right here on GitHub.
 
 ## Code Like Me
 
