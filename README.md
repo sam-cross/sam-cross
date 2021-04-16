@@ -10,7 +10,7 @@
 
 ## Who Am I?
 
-Right now, I'm working as an IT Helpdesk Technician in the public sector, alongside [my own brand](https://samcross.digital).
+I'm currently working as an IT Helpdesk Technician in the public sector.
 
 I fiddle with technology, have a passion for IT, drink too much coffee, and I'm always trying to learn something.
 
